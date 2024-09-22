@@ -83,4 +83,4 @@ We welcome further research and data analysis improvements. As the dataset evolv
 ---
 
 ## Contributors
-- Becky Wright, Marina Klepaci
+- Marina Klepaci
